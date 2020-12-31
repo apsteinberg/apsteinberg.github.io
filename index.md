@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<head>
-<title>Asher Preska Steinberg</title>
-</head>
 ## Welcome
 
 Hello! If you've stumbled upon this page, hopefully it means you are interested in my research. This is currently a work in progress, and I hope to have more up here soon.
