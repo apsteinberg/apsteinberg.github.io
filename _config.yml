@@ -20,7 +20,7 @@ sass:
 nav:
  - name: "About"
    link: "/apsteinberg.github.io/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "CV"
+   link: "20201231_Asher_CV.pdf"
+# - name: "Contact"
+#   link: "contact"
