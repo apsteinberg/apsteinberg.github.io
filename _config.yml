@@ -1,6 +1,8 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/"
+title: Asher Preska Steinberg
+url: "https://apsteinberg.github.io"
+#for local builds comment out the baseurl line ...
+#type "jekyll serve" in terminal
+#baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +10,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/bk2dcradle/researcher"
+footer_text: "Page layout designed by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,7 +19,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/apsteinberg.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
