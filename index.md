@@ -20,15 +20,15 @@ Biophysics, soft matter physics, polymer physics, computational biology, and evo
 
 ## Research Summary
 
-**Can we use physics to predict how polymers in our diet shape gut environment?**
+**Can we use physics to predict how polymers in our diet shape the gut environment?**
 
-During my [PhD thesis work](https://thesis.library.caltech.edu/11474/), I focused on elucidating how polymers in the human diet influence gut structure and function through physicochemical interactions. The human gut abounds in both secreted polymers (e.g., mucus, proteins) and ingested polymers (e.g., dietary fibers, food additives, therapeutics). These polymers affect the composition of the gut microbiome and diseases such as inflammatory bowel disease, yet the underlying physics by which these polymers alter gut physiology is not well understand. We studied this through a combination of experiments and numerical calculations. Despite the complexity of the gut, we were able to develop a coarse-grained, statistical physics approach for understanding how dietary polymers impact physiology, which enabled quantitative predictions based on measurables such as polymer size and concentration. Specifically, we found that dietary polymer-induced osmotic forces can compress colonic mucus and influence the aggregation of particles in the gut (Publications 2-4). Both mucus compression and aggregation have implications regarding altered protection against pathogens and drug uptake. Overall, my thesis work with the Ismagilov Lab yielded a quantitative, biophysical understanding of how polymer-driven osmotic forces, which shape gut physiology, can be tuned by host, microbiota, and diet.
+During my [PhD thesis work](https://thesis.library.caltech.edu/11474/), I focused on elucidating how polymers in the human diet influence gut structure and function through physicochemical interactions. The human gut abounds in both secreted polymers (e.g., mucus, proteins) and ingested polymers (e.g., dietary fibers, food additives, therapeutics). These polymers affect the composition of the gut microbiome and diseases such as inflammatory bowel disease, yet the underlying physics by which these polymers alter gut physiology is not well understand. We studied this through a combination of experiments and numerical calculations. Despite the complexity of the gut, we were able to develop a coarse-grained, statistical physics approach for understanding how dietary polymers impact physiology, which enabled quantitative predictions based on measurables such as polymer size and concentration. Specifically, we found that dietary polymer-induced osmotic forces can compress colonic mucus and influence the aggregation of particles in the gut (see Publications 2-4 below). Both mucus compression and aggregation have implications regarding altered protection against pathogens and drug uptake. Overall, my thesis work with the Ismagilov Lab yielded a quantitative, biophysical understanding of how polymer-driven osmotic forces, which shape gut physiology, can be tuned by the host, microbiota, and diet.
 
 <center><img src="gut_fig.png" alt="gut schematic" style="width:272px;height:182px;"></center>
 
 **How do fluctuating, biopolymeric environments influence microbial adaptation and behavior?**
 
-As the gut microbiota has a profound effect on human health, a complete understanding of how dietary polymers influence gut function must incorporate a quantitative framework for how microbes adapt to and behave in environments where conditions are constantly in flux and polymer-rich (e.g., gut, lungs). I began working on this at the end of my PhD with work focusing on how polymer-driven osmotic forces influence the aggregation of motile bacteria (Publication 1). I am now working with Edo Kussell to understand how microbes have adapted to live in these fluctuating, biopolymeric environments by leveraging diversity-generating mechanisms such as stochastic switching (i.e., phenotypic diversity) and recombination (i.e., genetic diversity).
+As the gut microbiota has a profound effect on human health, a complete understanding of how dietary polymers influence gut function must incorporate a quantitative framework for how microbes adapt to and behave in environments where conditions are constantly in flux and polymer-rich (e.g., gut, lungs). I began working on this at the end of my PhD with work focusing on how polymer-driven osmotic forces influence the aggregation of motile bacteria (see Publication 1 below). I am now working with Edo Kussell to understand how microbes have adapted to live in these fluctuating, biopolymeric environments through the use of diversity-generating mechanisms such as stochastic switching (i.e., creates phenotypic diversity) and recombination (i.e., produces genetic diversity).
 
 <center><img src="randomlycoloredcells.png" alt="Randomly colored cells" style="width:204px;height:225px;"></center>
 
@@ -43,7 +43,8 @@ As the gut microbiota has a profound effect on human health, a complete understa
 
 
  **Brandeis University** <br>
- B.A. in Chemistry with highest honors, B.A. in Physics (*summa cum laude*), May 2013<br>
+ B.A. in Chemistry with highest honors, B.A. in Physics, May 2013<br>
+ *summa cum laude*<br>
  Thesis advisor: Milos Dolnik <br>
  Thesis: *Growth dynamics of Turing Patterns in the photosensitive CDIMA reaction* <br>
 
