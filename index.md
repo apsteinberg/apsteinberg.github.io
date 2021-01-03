@@ -2,7 +2,6 @@
 layout: default
 ---
 <head>
-<meta name="google-site-verification" content="Se1P2nHT1NjVzrgGjkdXozGIqL7gEGUUoHj6ggj3p-o" />
   <title>Asher Preska Steinberg</title>
 </head>
 ## Welcome
